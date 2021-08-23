@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
-project(LeetCode)
+set(PROJECT_NAME "LeetCodeMultiThread")
+project(${PROJECT_NAME})
 
 set(CMAKE_CXX_STANDARD 11)
 aux_source_directory(. srcs)
