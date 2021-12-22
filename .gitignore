@@ -32,16 +32,13 @@
 *.app
 
 # vscode and cmake build
-.vscode
-build
+.vscode/
+build/
 
 # Clion
-cmake-build-debug
-cmake-build-minsizerel
-cmake-build-release
-cmake-build-relwithdebinfo
-.idea
+cmake-*/
+.idea/
 
 #visual studio
-.vs
-out
+.vs/
+out/
