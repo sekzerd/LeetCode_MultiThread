@@ -1,4 +1,4 @@
-# LeetCode_MultiThread
+# leetcode-multi-thread
 
 - 1114_Foo
 - 1115_FooBar
